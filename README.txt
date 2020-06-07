@@ -1,3 +1,10 @@
+#ProjectePrototypeMinecraft
+Realitzat per:
+- Carlos Martinez
+- Anabel Jimenez
+- Arnau Reig
+
+Informació de Forge per la instal·lació:
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
